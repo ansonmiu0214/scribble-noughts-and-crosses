@@ -1,0 +1,45 @@
+body {
+  font-size: 16px;
+}
+
+.App {
+  text-align: center;
+  width: 90%;
+  margin: auto;
+}
+
+.Button {
+  padding: 10px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.Button:hover {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+
+.Board {
+  margin: auto;
+}
+
+.grid {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+}
+
+.empty:hover {
+  background-color: black;
+  cursor: pointer;
+}
+
+/* .P1 {
+  background-color: blue;
+}
+
+.P2 {
+  background-color: yellow;
+} */
