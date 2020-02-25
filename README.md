@@ -48,3 +48,5 @@ npm start
 
 ## Implementation
 Refer to [`server/README.md`](server/README.md) and [`client/README.md`](client/README.md) for details on the generated code and user implementation.
+
+__Update (25/02/2020):__ WIP code generation repository found under [`TypeScript-Multiparty-Sessions`](https://github.com/ansonmiu0214/TypeScript-Multiparty-Sessions).
