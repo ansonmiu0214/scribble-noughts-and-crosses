@@ -1,5 +1,8 @@
-# scribble-noughts-and-crosses
-A game of Noughts and Crosses written in TypeScript communicating following a Scribble protocol
+# Noughts and Crosses with Scribble [![arXiv](https://img.shields.io/badge/arXiv-2004.01321-b31b1b.svg)](https://arxiv.org/abs/2004.01321)
+A game of Noughts and Crosses written in TypeScript implementing a communication protocol written in Scribble.
+
+> ## _Generating Interactive WebSocket Applications in TypeScript (PLACES 2020)_
+> __Anson Miu, Francisco Ferreira, Nobuko Yoshida, Fangyi Zhou__
 
 ![](./example.gif)
 
